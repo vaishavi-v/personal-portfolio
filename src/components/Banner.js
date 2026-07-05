@@ -15,13 +15,13 @@ export const Banner = () => {
   const period = 2000;
 
   useEffect(() => {
-    let ticker = setInterval(() => {
-      tick();
-    }, delta);
+  let ticker = setInterval(() => {
+    tick();
+  }, delta);
 
-    return () => { clearInterval(ticker) };
-  }, [text])
-
+  return () => { clearInterval(ticker) };
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+}, [text])
   const tick = () => {
     let i = loopNum % toRotate.length;
     let fullText = toRotate[i];

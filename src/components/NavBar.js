@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
-import { BarChartLine, Linkedin, Github } from 'react-bootstrap-icons';
+import { Linkedin, Github } from 'react-bootstrap-icons';
 import { HashLink } from 'react-router-hash-link';
 import {
   BrowserRouter as Router
