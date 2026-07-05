@@ -36,4 +36,4 @@ npm start
 ```
 ---
 Contact
-LinkedIn: vaishaviindreshan · GitHub: vaishavi-v · Email: vaishaviindreshan@gmail.com
+LinkedIn: www.linkedin.com/in/vaishaviindreshan · GitHub: https://github.com/vaishavi-v · Email: vaishaviindreshan@gmail.com
