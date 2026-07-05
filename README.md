@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Vaishavi Indreshan | Portfolio
 A personal portfolio website showcasing my data science projects, technical skills, and background as a Data Science undergraduate seeking Data Analyst / Data Engineer / Data Science internship opportunities.
  Live Site: [Add your Vercel URL here once deployed]
@@ -43,3 +44,6 @@ GitHub: github.com/vaishavi-v
 Email: vaishaviindreshan@gmail.com
 ---
 Built with React as a personal project, continuously improved and maintained.
+=======
+# personal-portfolio
+>>>>>>> 0347f0f340d7a35a9d0d76acf3b3c8ebbd445c98
