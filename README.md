@@ -56,4 +56,4 @@ npm start
 
 ## Contact
 
-LinkedIn: [vaishaviindreshan](https://linkedin.com/in/vaishaviindreshan-4a47b1303) · GitHub: [vaishavi-v](https://github.com/vaishavi-v) · Email: vaishaviindreshan@gmail.com
+LinkedIn: [vaishaviindreshan](https://linkedin.com/in/vaishaviindreshan) · GitHub: [vaishavi-v](https://github.com/vaishavi-v) · Email: vaishaviindreshan@gmail.com
