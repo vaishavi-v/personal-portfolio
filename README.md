@@ -10,7 +10,7 @@
 
 A personal portfolio website built with React, showcasing my data science projects and technical skills. I'm a third-year BSc (Hons) IT undergraduate specializing in Data Science at SLIIT, Sri Lanka, currently seeking a Data Analyst / Data Engineer / Data Science internship.
 
-**Live Site:** [your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+**Live Site:** [your-vercel-url.vercel.app](https://vaishavi-portfolio.vercel.app/)
 
 ---
 
